@@ -6,23 +6,20 @@
     font-family: 'Sriracha', cursive;
 }
 
-.carousel-item{
-    max-height: 35vh;
+.carousel-item {
+    max-height: 50vh;
     overflow: hidden;
+    margin-bottom: 30px;
 }
 
-h2.subtitulo{
-    flex-grow:1;
-    flex-shrink: 0;
-    flex-basis: 100%;
+.subtitulo {
+    flex: 1 0 100%;
 }
 
-#exemplobootstrap{
+#exemplobootstrap {
     margin-top: 30px;
 }
 
-
-#exemplobootstrap div section{
+#exemplobootstrap div section {
     height: 30vh;
-
 }
